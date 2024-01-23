@@ -76,5 +76,3 @@ Finally, the dashboard was created by inserting and customizing the pivot charts
 ## End
 
 This Road Accident Analytics Dashboard opens the door to data-driven decision-making, enabling stakeholders to implement evidence-based interventions that enhance road safety. It serves as a valuable tool for policymakers, traffic authorities, and safety advocates alike. 
-
-Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/harshitt-gahlaut/
